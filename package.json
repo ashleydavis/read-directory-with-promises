@@ -1,0 +1,24 @@
+{
+  "name": "read-directory-with-promises",
+  "version": "1.0.0",
+  "description": "Example code to read a directory tree using promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/read-directory-with-promises.git"
+  },
+  "keywords": [
+    "promise",
+    "read",
+    "directory"
+  ],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/read-directory-with-promises/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/read-directory-with-promises#readme"
+}
