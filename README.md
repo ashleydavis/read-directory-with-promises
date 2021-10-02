@@ -2,6 +2,8 @@
 
 Example code to read a directory tree using promises.
 
+[Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
 To try this out...
 
 Make sure you have [Node.js installed](https://nodejs.org/en/).
